@@ -8,10 +8,21 @@
    
    ※ 「Open a blunck issue」からはissueを作成しない
    
-   ※ 自分の目的に合ったissueテンプレートがない場合はスクラムマスターに相談する
+   ※ 自分の目的に合ったissueテンプレートがない場合は担当スクラムマスターに相談する
 
 <img width="767" alt="Issueテンプレート_20200712" src="https://user-images.githubusercontent.com/55462291/87241108-b8844b80-c45a-11ea-9999-0b37ea89a055.png">
 
+### labelsの運用方法
+- issue には以下の画像ような label を設定する事ができる
+- 基本的な label は issueテンプレートから issue を作成した時に自動で設定される
+- エンジニアは label を自分で変更する事はないが、issue の検索を行う時に役立つので、それぞれの label の意味は理解しておく
+- 以下の label は、task issue の状況が変わった時に担当スクラムマスターが設定変更を行う
+  * 3 : エンジニア募集 - raise your hand
+  * 4 : 初心者大歓迎 - good first issue
+  * 8 : 保留 - wontfix
+  * 9 : 実現不可能 - invalid
+  * 10 : 重複 - duplicate
+<img width="620" alt="labels一覧_20200712" src="https://user-images.githubusercontent.com/55462291/87243229-4d913f80-c46f-11ea-861e-57d8aa7bea44.png">
 
 ### GitHubFlowの運用ルール、ブランチの命名規則
 以下のQiitaを参考に抜粋をまとめる（山村）
