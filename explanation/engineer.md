@@ -10,7 +10,7 @@
    
    ※ 自分の目的に合ったissueテンプレートがない場合は担当スクラムマスターに相談する
 
-<img width="767" alt="Issueテンプレート_20200712" src="https://user-images.githubusercontent.com/55462291/87241108-b8844b80-c45a-11ea-9999-0b37ea89a055.png">
+<img width="1018" alt="Issueテンプレート_20200712" src="https://user-images.githubusercontent.com/55462291/87245224-aae0bd00-c47e-11ea-9fb0-da831c876001.png">
 
 ## labelsの運用方法
 - issue には以下の画像ような label を設定する事ができる
@@ -22,6 +22,7 @@
   * 8 : 保留 - wontfix
   * 9 : 実現不可能 - invalid
   * 10 : 重複 - duplicate
+
 <img width="620" alt="labels一覧_20200712" src="https://user-images.githubusercontent.com/55462291/87243229-4d913f80-c46f-11ea-861e-57d8aa7bea44.png">
 
 ## GitHubの運用ルール([GitHub Flow](https://tracpath.com/bootcamp/learning_git_github_flow.html)と呼ばれる運用フローを採用)
