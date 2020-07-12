@@ -19,30 +19,10 @@ https://tracpath.com/bootcamp/learning_git_github_flow.html
 https://qiita.com/tbpgr/items/4ff76ef35c4ff0ec8314
 https://qiita.com/katsunory/items/252c5fd2f70480af9bbb
 
-### プルリクのテンプレート
-以下のQiitaを参考に抜粋をまとめる（山村）
-https://qiita.com/nyamogera/items/3fe6985b45fbd5377184
-
-## すささんのメモ（以下、あとで削除）
-### Github flow
-
-* Github flow をそのまま採用でよいとおもう（git flow ではない）
-* https://tracpath.com/bootcamp/learning_git_github_flow.html のサイトがよくまとまっています。リンク張って読んでもらうでもいいかも。
-
-### Issue ルール
-
-* ストーリー issue
-  * Label は story
-  * 必ず Projects に紐付ける
-  * 必ず担当者をアサインする
-  * タスクを作ったら、説明欄にタスク issue の番号を記載する
-    * Github issue には issue の親子を設定する機能が無いため運用でカバー
-  * closeできるのはプロダクトオーナー
-
-* タスク issue
-  * Label は task
-  * Projects に紐付けない
-  * タスクを作ったら、説明欄にストーリー issue の番号を記載する
-    * Github issue には issue の親子を設定する機能が無いため運用でカバー
-  * closeできるのはスクラムマスター
-
+### プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
+1. 自分が担当している開発が完了したら、作業ブランチにプルする
+2. Pull requestsタブをクリックする
+3. New pull request をクリックする
+4. compare を作業ブランチに設定し、base を master に設定する
+5. 画面上部に表示される[ガイドライン](https://github.com/kboy-salon/salon_app/blob/master/.github/CONTRIBUTING.md)に沿って必要事項を入力する
+6. Create pull request をクリックする
