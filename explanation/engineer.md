@@ -1,5 +1,5 @@
 # 開発の流れ（エンジニア向け）
-### issueの作成方法
+## issueの作成方法
 1. Issuesタブをクリックする
 
 1. issueテンプレートの[各種運用ルール](https://github.com/kboy-salon/salon_app_doc/blob/master/explanation/issues.md)を確認する
@@ -12,7 +12,7 @@
 
 <img width="767" alt="Issueテンプレート_20200712" src="https://user-images.githubusercontent.com/55462291/87241108-b8844b80-c45a-11ea-9999-0b37ea89a055.png">
 
-### labelsの運用方法
+## labelsの運用方法
 - issue には以下の画像ような label を設定する事ができる
 - 基本的な label は issueテンプレートから issue を作成した時に自動で設定される
 - エンジニアは label を自分で変更する事はないが、issue の検索を行う時に役立つので、それぞれの label の意味は理解しておく
@@ -24,10 +24,10 @@
   * 10 : 重複 - duplicate
 <img width="620" alt="labels一覧_20200712" src="https://user-images.githubusercontent.com/55462291/87243229-4d913f80-c46f-11ea-861e-57d8aa7bea44.png">
 
-### GitHubの運用ルール([GitHub Flow](https://tracpath.com/bootcamp/learning_git_github_flow.html)と呼ばれる運用フローを採用)
+## GitHubの運用ルール([GitHub Flow](https://tracpath.com/bootcamp/learning_git_github_flow.html)と呼ばれる運用フローを採用)
 以下の4つを準拠して、masterブランチは常にリリース可能な状態にしながら、GitHubを運用する
 
-1. 新しい作業を開始する際は、必ず、最新のmasterブランチからtopicブランチを切ってから作業を開始する
+1. 新しい作業を開始する際は、必ず、最新のmasterブランチから作業ブランチを切る
 
 1. 作業ブランチは定期的にプッシュする
 
@@ -35,15 +35,34 @@
 
 1. コードレビューを通過したら、速やかに、プロダクトオーナーにmasterブランチのマージを依頼する
 
-### ブランチの命名規則
-以下のQiitaを参考に抜粋をまとめる（山村）
-※プルリクエストにWork In Progressのルールも用意する？
-※ブランチはmaster ← develop ← feature の 構成を想定
-https://tracpath.com/bootcamp/learning_git_github_flow.html
-https://qiita.com/tbpgr/items/4ff76ef35c4ff0ec8314
-https://qiita.com/katsunory/items/252c5fd2f70480af9bbb
+## 各ブランチの役割と命名規則
+### masterブランチ
+- リリース可能な状態だけを管理する
 
-### プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
+- 特定のブランチからマージすることによってしか更新されない
+
+- 直接コミットしてはならないという制約を持つ
+
+- [バージョン毎のtag](https://docs.github.com/ja/github/administering-a-repository/viewing-your-repositorys-releases-and-tags)はここから生まれる
+
+### featureブランチ
+- 機能追加・改修などを行う作業ブランチ
+
+- masterブランチから、featureブランチを切る
+
+- レビュー完了後はmasterブランチにマージされ、featureブランチはMergedのまま保持される
+
+- featureブランチは以下のように「feature/(変更の種類)_(作業内容の簡単な説明)」のような命名規則でブランチを切る
+
+  * 命名例１ ： feature/add_buttom_on_login_screen
+
+  * 命名例２ ： feature/change_date_picker_on_event_screen
+
+  * 命名例３ ： feature/delete_good_buttom_on_video_screen
+
+  * 命名例４ ： feature/update_layout_on_withdrawal_screen
+
+## プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
 1. 自分が担当している開発が完了したら、作業ブランチにプルする
 
 1. Pull requestsタブをクリックする
