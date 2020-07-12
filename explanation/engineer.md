@@ -24,7 +24,18 @@
   * 10 : 重複 - duplicate
 <img width="620" alt="labels一覧_20200712" src="https://user-images.githubusercontent.com/55462291/87243229-4d913f80-c46f-11ea-861e-57d8aa7bea44.png">
 
-### GitHubFlowの運用ルール、ブランチの命名規則
+### GitHubの運用ルール([GitHub Flow](https://tracpath.com/bootcamp/learning_git_github_flow.html)と呼ばれる運用フローを採用)
+以下の4つを準拠して、masterブランチは常にリリース可能な状態にしながら、GitHubを運用する
+
+1. 新しい作業を開始する際は、必ず、最新のmasterブランチからtopicブランチを切ってから作業を開始する
+
+1. 作業ブランチは定期的にプッシュする
+
+1. 作業が完了したら、プルリクエストを使って、プロダクトオーナーや担当スクラムマスターにコードレビューを依頼する
+
+1. コードレビューを通過したら、速やかに、プロダクトオーナーにmasterブランチのマージを依頼する
+
+### ブランチの命名規則
 以下のQiitaを参考に抜粋をまとめる（山村）
 ※プルリクエストにWork In Progressのルールも用意する？
 ※ブランチはmaster ← develop ← feature の 構成を想定
