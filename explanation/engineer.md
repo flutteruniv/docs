@@ -32,9 +32,13 @@
 
 1. 作業ブランチは定期的にプッシュする
 
-1. 作業が完了したら、プルリクエストを使って、プロダクトオーナーや担当スクラムマスターにコードレビューを依頼する
+1. 作業が完了したら、プルリクエストを使って、[コードレビュー](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)を依頼する
 
-1. コードレビューを通過したら、速やかに、プロダクトオーナーにmasterブランチのマージを依頼する
+   * レビュー担当者は、立候補やスクラムマスターの采配で決定する
+   
+   * レビュー担当者以外の方もコードをチェックしたら、[絵文字でリアクション](https://www.excite.co.jp/news/article/Dreaminnovation_vent_news_b6adl5WCgI/)で盛り上げていこう
+  
+   * コードレビューで2人目の[Approve](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews)が出たら、2人目のレビュー担当者が速やかに[Rebase and merge](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)を実行する
 
 ## 各ブランチの役割と命名規則
 ### masterブランチ
