@@ -57,15 +57,15 @@
 
 - レビュー完了後はmasterブランチにマージされ、featureブランチはMergedのまま保持される
 
-- featureブランチは以下のように「feature/(変更の種類)_(作業内容の簡単な説明)」のような命名規則でブランチを切る
+- featureブランチは以下のように「feature/#(issue番号)_(変更の種類)_(作業内容の簡単な説明)」のような命名規則でブランチを切る
 
-  * 命名例１ ： feature/add_buttom_on_login_screen
+  * 命名例１ ： feature/#1_add_buttom_on_login_screen
 
-  * 命名例２ ： feature/change_date_picker_on_event_screen
+  * 命名例２ ： feature/#2_change_date_picker_on_event_screen
 
-  * 命名例３ ： feature/delete_good_buttom_on_video_screen
+  * 命名例３ ： feature/#3_delete_good_buttom_on_video_screen
 
-  * 命名例４ ： feature/update_layout_on_withdrawal_screen
+  * 命名例４ ： feature/#4_update_layout_on_withdrawal_screen
 
 ## プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
 1. 自分が担当している開発が完了したら、作業ブランチにプルする
