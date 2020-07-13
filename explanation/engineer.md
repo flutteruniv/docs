@@ -69,15 +69,15 @@
 
 - レビュー完了後はmasterブランチにマージされ、featureブランチは[Rebase and merge](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)を実行した時点で[自動削除](https://docs.github.com/ja/github/administering-a-repository/managing-the-automatic-deletion-of-branches)される
 
-- featureブランチは「feature/#(issue番号)_(変更の種類)_(作業内容の簡単な説明)」のような命名規則で作成する
+- featureブランチは「feature/(issue番号)_(変更の種類)_(作業内容の簡単な説明)」のような命名規則で作成する
 
-  * 命名例１ ： feature/#1_add_buttom_on_login_screen
+  * 命名例１ ： feature/1_add_buttom_on_login_screen
 
-  * 命名例２ ： feature/#2_change_date_picker_on_event_screen
+  * 命名例２ ： feature/2_change_date_picker_on_event_screen
 
-  * 命名例３ ： feature/#3_delete_good_buttom_on_video_screen
+  * 命名例３ ： feature/3_delete_good_buttom_on_video_screen
 
-  * 命名例４ ： feature/#4_update_layout_on_withdrawal_screen
+  * 命名例４ ： feature/4_update_layout_on_withdrawal_screen
 
 ## プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
 1. 自分が担当している開発が完了したら、作業ブランチにプルする
