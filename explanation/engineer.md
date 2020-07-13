@@ -40,6 +40,18 @@
   
    * コードレビューで2人目の[Approve](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews)が出たら、2人目のレビュー担当者が速やかに[Rebase and merge](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)を実行する
 
+## コミットメッセージの書き方
+- 冒頭にissue番号を必ず付ける
+- 何処の？何を？どんな風に？修正を行ったのか、具体的＆簡潔に書く
+
+  * メッセージ例1　：　#1 ログイン画面にログインボタンを追加した
+  
+  * メッセージ例2　：　#2 イベント画面の日付選択を英語表記から日本語表記に変更した
+  
+  * メッセージ例3　：　#3 動画画面のいいねボタンが重複して配置されていたため１つ削除した
+  
+  * メッセージ例4　：　#4 退会画面の配置方針が変わったため、Widgetのレイアウトを調整した
+  
 ## 各ブランチの役割と命名規則
 ### masterブランチ
 - リリース可能な状態だけを管理する
