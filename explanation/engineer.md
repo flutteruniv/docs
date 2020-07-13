@@ -67,9 +67,9 @@
 
 - masterブランチから、featureブランチを切る
 
-- レビュー完了後はmasterブランチにマージされ、featureブランチはMergedのまま保持される
+- レビュー完了後はmasterブランチにマージされ、featureブランチは[Rebase and merge](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)を実行した時点で[自動削除](https://docs.github.com/ja/github/administering-a-repository/managing-the-automatic-deletion-of-branches)される
 
-- featureブランチは以下のように「feature/#(issue番号)_(変更の種類)_(作業内容の簡単な説明)」のような命名規則でブランチを切る
+- featureブランチは「feature/#(issue番号)_(変更の種類)_(作業内容の簡単な説明)」のような命名規則で作成する
 
   * 命名例１ ： feature/#1_add_buttom_on_login_screen
 
