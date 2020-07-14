@@ -26,3 +26,14 @@ Slack|不明なのでKBOYさんに問合せしてください
 Stripe|KBOYさんに問合せれば開発用アカウントが取得できます
 Vimeo|KBOYさんに問合せればストリーミングURLやAPIキーが取得できます
 Firebase|KBOYさんに問合せれば招待してくれます
+
+
+### コーディング規約
+
+#### 原則
+
+- 記述方法に悩んだらFlutter大学動画の方式に合わせる。
+- Format on save設定を有効にしdartfmtを適用させる。
+
+#### 詳細  
+詳細は[ここ](https://github.com/kboy-salon/salon_app_doc/blob/master/explanation/codingRules.md)に記載してあるのでざっと目を通してください。
