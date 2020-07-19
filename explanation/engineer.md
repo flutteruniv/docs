@@ -78,6 +78,10 @@
   * 命名例３ ： feature/3_delete_good_buttom_on_video_screen
 
   * 命名例４ ： feature/4_update_layout_on_withdrawal_screen
+  
+## コミュニケーション
+  * github 上でコメントのやりとりをする場合はメンション（＠付き）を付けてください。
+  * メンションをつけないと相手が気づかない場合があります。
 
 ## プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
 1. 自分が担当している開発が完了したら、作業ブランチにプルする
