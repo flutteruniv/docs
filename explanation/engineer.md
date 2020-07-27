@@ -84,7 +84,7 @@
   * メンションをつけないと相手が気づかない場合があります。
 
 ## プルリクの作成方法（→大まかな流れは[GitHubのDocs](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)を確認)
-1. 自分が担当している開発が完了したら、作業ブランチにプルする
+1. 自分が担当している開発が完了したら、作業ブランチにpushする
 
 1. Pull requestsタブをクリックする
 
