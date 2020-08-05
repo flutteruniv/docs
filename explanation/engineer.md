@@ -67,7 +67,7 @@
 
 - masterブランチから、featureブランチを切る
 
-- レビュー完了後はmasterブランチにマージされ、featureブランチは[Rebase and merge](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)を実行した時点で[自動削除](https://docs.github.com/ja/github/administering-a-repository/managing-the-automatic-deletion-of-branches)される
+- レビュー完了後はmasterブランチにマージされ、featureブランチは[Create a merge commit](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)を実行した時点で[自動削除](https://docs.github.com/ja/github/administering-a-repository/managing-the-automatic-deletion-of-branches)される
 
 - featureブランチは「feature/(issue番号)_(変更の種類)_(作業内容の簡単な説明)」のような命名規則で作成する
 
