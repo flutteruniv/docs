@@ -48,5 +48,5 @@ Firebase|KBOYさんやスクラムマスターに問合せれば招待してく�
 2. [入会Web](https://kboy-salon-app.web.app/#/)を開く
 3. 入会Webで、入会登録をする
 4. 適当なプランを選択して決済画面に遷移する
-5. [テスト用クレジットカード番号](https://stripe.com/docs/testing#cards)を入力し（有効期限は未来の日付、CVCはなんでもよい）
+5. [テスト用クレジットカード番号](https://stripe.com/docs/testing#cards)を入力し（有効期限は未来の日付、CVCはなんでもよい）申し込みをする。
 
