@@ -3,6 +3,19 @@
 - サロンアプリの管理Webアプリ
 - Flutter Web で作ってます
 
+ログイン|レスポンシブ対応
+--|--
+![ログイン](https://user-images.githubusercontent.com/13707135/99279389-86a14c80-2873-11eb-814d-417460b558b7.gif)|![レスポンシブ対応](https://user-images.githubusercontent.com/13707135/99279518-a8023880-2873-11eb-98d1-f9cdcf615d32.gif)
+
+お知らせ一覧
+--
+![お知らせ一覧](https://user-images.githubusercontent.com/13707135/99279656-cff19c00-2873-11eb-9675-5a529b4ce009.gif)
+
+お知らせ作成
+--
+![お知らせ作成](https://user-images.githubusercontent.com/13707135/99279625-c49e7080-2873-11eb-9c02-a215e75dbc31.gif)
+
+
 # ソースコードの解説
 
 ## フォルダ構成
