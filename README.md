@@ -1,73 +1,55 @@
-# KBOYのFlutter大学アプリ（サロンアプリ）開発
+# KBOYのFlutter大学
 
-ようこそ！  
-サロンアプリの開発に参加する場合は、下記をお読みください。
+ようこそ！KBOYのFlutter大学へ！
+オンラインサロン内の共同開発に参加する場合は、下記をお読みください。
 
 ## はじめに
 
 ### 誰がやるのか
 
-サロンアプリを開発するのはサロンメンバーのみ（サロンメンバー以外は不可）
+- オンラインサロン内の共同開発に参加できるのはサロンメンバーのみ（サロンメンバー以外は不可）
 
 ### 何をやるのか
 
-サロンメンバーが使うサロンアプリ（iOS/Android）をFlutterで開発してAppStore/GooglePlayにリリースする
+- サロンメンバー自らが企画提案したアプリの共同開発
+- Flutterで開発してAppStore/GooglePlayにリリースすることが目標
 
 ### なぜやるのか
 
-* 入会処理（SlackやGithub招待）と退会処理（SlackやGithubの権限削除）を自動化し、事務作業の負担軽減
-* 限定動画（Vimeo）をもっと簡単に見ることが出来る
-* 将来的にFlutterの習熟度の見える化と、サロンメンバー同士の交流を活発にしてサロンメンバーのモチベーションアップ
-* チーム開発を経験できる（アジャイルスクラム（っぽい）開発 + Github + コードレビュー）
+- チーム開発を経験できる
+- スキルアップ（Flutter、Firebase、Github、コードレビュー）
 
 ### どのようにやるのか
 
-[スクラム開発](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA))におけるプロダクトオーナーと複数のスクラムマスター（のような人）がいて、スクラムマスターが作成した複数のタスクをエンジニアチームに照会し、対応ができるエンジニアが立候補してタスクを実行していきます。  
-これは、メンバーの入れ替わりが起こることを想定して、できる限り個人に依存することは避けるためです。  
-この開発スタイルを**オープンスクラム開発**（造語）と呼んでいます。  
-詳細は、[「開発全体の流れ」](./explanation/sprint.md)を参照してください。  
+- 数名の少人数のチームを組み、各チームが共同開発をする
+- チーム運営はおのおののチーム内の裁量に任せられています
+
+## 各チームのレポジトリとWiki
+
+チーム名|レポジトリ|Wiki
+--|--|--
+music|https://github.com/kboyflutteruniv/music_app|[Wiki](./joint_dev/music_app/README.md)
+snsツール|https://github.com/kboyflutteruniv/salon_sns_app|[Wiki](./joint_dev/salon_sns_app/README.md)
+widgetアプリ|https://github.com/kboyflutteruniv/wiget_app|[Wiki](./joint_dev/wiget_app/README.md)
+体重管理|https://github.com/kboyflutteruniv/weight-management|[Wiki](./joint_dev/weight-management/README.md)
+シンプルなレシピ|https://github.com/kboyflutteruniv/recipe-app|[Wiki](./joint_dev/recipe-app/README.md)
+ボイスマッチング|https://github.com/kboyflutteruniv/voice_match_app|[Wiki](./joint_dev/voice_match_app/README.md)
+位置情報チーム|https://github.com/kboyflutteruniv/location-app|[Wiki](./joint_dev/location-app/README.md)
+
+## サロンアプリ
+
+サロンアプリのアップデートもチームを組んで開発しています。
+サロンアプリは複数のアプリで構成されています。
+
+アプリ名|レポジトリ
+--|--
+サロンアプリ（iOS/Android）|https://github.com/kboyflutteruniv/salon_app|[Wiki](./joint_dev/salon_app/README.md)
+入会Web（Web）|https://github.com/kboyflutteruniv/salon_app_web|[Wiki](./joint_dev/salon_app_web/README.md)
+管理Web（Web）|https://github.com/kboyflutteruniv/salon_admin_web|[Wiki](./joint_dev/salon_admin_web/README.md)
+CloudFunctions|https://github.com/kboyflutteruniv/salon_functions|[Wiki](./joint_dev/salon_functions/README.md)
 
 
-![オープンスクラムのイメージ図](https://user-images.githubusercontent.com/13707135/87150730-9ae5a380-c2ed-11ea-82bf-652a39ff14e4.png)
+### [サロンアプリ初期開発時のWiki](./salon_app/README.md)
 
-## ロールとルールの定義
-
-### プロダクトオーナー：KBOY
-* プロダクトに責任を持つ
-* ストーリーのOpen/Closeとスクラムマスターへのアサインの権限を持つ
-* スクラムマスターのアウトプットをレビューしフィードバックをする
-* 各ストーリーを横断する問題を解決する
-
-### スクラムマスター
-* ストーリーに責任を持つ
-* タスクのOpen/Closeとエンジニアへのアサインの権限を持つ
-* アサインせずにエンジニアから担当者を募集してよい
-* エンジニアのアウトプットをレビューしフィードバックをする
-
-### エンジニア
-* アサインされたタスクに責任を持つ
-* わからないことがあればスクラムマスターと相談して解決していく
-
-## [サロンアプリの説明](./explanation/overview.md)
-
-サロンアプリの開発に参加するみなさまはこのページをお読みください。サロンアプリ全体のアーキテクチャ、画面遷移等が説明されています。
-
-## その他の共同開発アプリについて
-
-このRead meだけでなく各アプリのrepositoryに記載されているRead meも一読してから作業を開始してください。
-
-各アプリのrepositoryはこちらから探してください。
-https://github.com/kboyflutteruniv
-
-## [開発全体の流れ](./explanation/sprint.md)
-
-サロンアプリの開発に参加するみなさまはこのページをお読みください。スプリントプランニングで何をつくるのかが決まり、スクラムマスターがエンジニアと協力をして実装し、アウトプットをプロダクトオーナーがレビューする開発の流れが説明されています。
-
-## [開発の流れ（エンジニア向け）](./explanation/engineer.md)
-
-エンジニアの方はこのページをお読みください。スクラムマスターからタスクを受取り、ソースコードを修正してサロンアプリにデプロイするまでの一連の手順が説明されています。
-
-## [ドキュメント類](./explanation/documents.md)
-
-実装するのに必要なサロンアプリの設計ドキュメントなどがあります。
-
+2020年7月〜2020年9月の3ヶ月間をかけて、サロンメンバーがオンラインサロン専用のアプリ（サロンアプリ）を共同開発しました。
+そのときのWiki情報です。もしかしたら役立つ情報があるかもしれません。
