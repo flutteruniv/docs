@@ -1,6 +1,6 @@
 # music_app
 
-## 現在利用中の主なPackage  2020/11/17現在のもの　pubspec.yaml記載
+## pubspec.yaml記載　2020/11/17現在利用中の主なPackage  　
  - [audioplayers](https://pub.dev/packages/audioplayers)
    - 音楽プレイヤーの再生機能を実現するためのPackage.複数のオーディオファイルを同時に再生できる
  - [just_audio](https://pub.dev/packages/just_audio)
