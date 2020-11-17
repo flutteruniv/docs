@@ -1,4 +1,6 @@
 # music_app
+Podcastやローカルの音楽を再生できるアプリ。
+iPod的なWheelUIで再生やシークができ、倍速再生や複数同時再生などの機能を実現予定
 
 ## pubspec.yaml記載　2020/11/17現在利用中の主なPackage  　
  - [audioplayers](https://pub.dev/packages/audioplayers)
@@ -23,3 +25,9 @@
  
 ## Trello
  - https://trello.com/b/2f0qD7ci/flutter%E5%A4%A7%E5%AD%A6music-app
+
+
+## 現在起きている問題・課題
+- File_pickerでiOSのMusicディレクトリからパスを取得しても1度目は再生できない。（1度目でキャッシュされるため2回同じファイルを選択すると再生できる）
+- iOS Simulator上でローカルの音楽ファイルが再生できないため、Androidエミュレータを使う
+  またはリリースビルド `flutter run --release` する必要がある
