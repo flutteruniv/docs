@@ -6,7 +6,7 @@ iPod的なWheelUIで再生やシークができ、倍速再生や複数同時再
  - [audioplayers](https://pub.dev/packages/audioplayers)
    - 音楽プレイヤーの再生機能を実現するためのPackage.複数のオーディオファイルを同時に再生できる
  - [audio_service](https://pub.dev/packages/audio_service)
-   - バックグラウンド再生ができるパッケージ
+   - バックグラウンド再生ができるPackage
  - [just_audio](https://pub.dev/packages/just_audio)
    - audioplayersと機能が重複しているがaudio_serviceと一緒に使えるためこちらをメインで利用する予定
  - [podcast_search](https://pub.dev/packages/podcast_search)
