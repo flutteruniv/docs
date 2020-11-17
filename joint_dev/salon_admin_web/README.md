@@ -64,7 +64,6 @@ util|便利機能
 ### 【解説】 ルーティング
 
 - ルーティングの細かい実装は [flutter_web_router](https://pub.dev/packages/flutter_web_router) packageに閉じ込めました。ここではルーティングの考え方を説明します。
-ここではルーティングの考え方を説明します。
 - Flutter Web では、事前に名前付きパスを定義して、`Navigator.of(context).pushNamed('/dashboard');`のようにパスを与えて画面遷移します。
 - 普通に`MaterialApp().routes` で各画面のパスを固定で定義し、例えばお知らせ詳細画面を開くときにお知らせ情報（`Notice`）をコンストラクターで与えて表示すると、ブラウザ再読込したときにお知らせ情報が無くなって正しく表示されない問題が起きます。
 - この問題を解決するために、お知らせ詳細画面を表示する場合は `/notices/view/{noticeId}`、お知らせ編集画面を表示する場合は`/notices/edit/{noticeId}`のように、パスに`noticeId`を含めてしまえばブラウザ再読込みされても同じ画面を表示できます。
