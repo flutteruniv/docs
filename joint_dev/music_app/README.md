@@ -21,7 +21,7 @@ iPod的なWheelUIで再生やシークができ、倍速再生や複数同時再
  - [cloud_firestore](https://pub.dev/packages/cloud_firestore)
  - [html](https://pub.dev/packages/html)
  - [lint](https://pub.dev/packages/lint)
-   - 静的解析
+   - 静的解析 
 
 ## 遷移図
  - https://www.figma.com/file/S0Gn6fbdZEeCorPpA17LYo/Music-app?node-id=0%3A1
@@ -29,6 +29,8 @@ iPod的なWheelUIで再生やシークができ、倍速再生や複数同時再
 ## Trello
  - https://trello.com/b/2f0qD7ci/flutter%E5%A4%A7%E5%AD%A6music-app
 
+## ScrapBox (中身をGithubに移す予定)
+ - https://scrapbox.io/flutter-univ-music/
 
 ## 現在起きている問題・課題
 - File_pickerでiOSのMusicディレクトリからパスを取得しても1度目は再生できない。（1度目でキャッシュされるため2回同じファイルを選択すると再生できる）
