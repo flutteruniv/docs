@@ -5,20 +5,20 @@
 
 ログインとログアウト
 --
-![ログイン](https://user-images.githubusercontent.com/13707135/99279389-86a14c80-2873-11eb-814d-417460b558b7.gif)
+![login](https://user-images.githubusercontent.com/13707135/99695844-653d9c00-2ad1-11eb-8e5b-bbd4846c4bbd.gif)
 
 レスポンシブ対応
 --
-![レスポンシブ対応](https://user-images.githubusercontent.com/13707135/99279518-a8023880-2873-11eb-98d1-f9cdcf615d32.gif)
+![responsive](https://user-images.githubusercontent.com/13707135/99696244-d54c2200-2ad1-11eb-9ebd-c6bb6f8fb099.gif)
 
-お知らせ一覧
+メンバー一覧、詳細
 --
-![お知らせ一覧](https://user-images.githubusercontent.com/13707135/99279656-cff19c00-2873-11eb-9675-5a529b4ce009.gif)
+![member](https://user-images.githubusercontent.com/13707135/99696204-c8c7c980-2ad1-11eb-9107-96fc1edf436c.gif)
 
-お知らせ作成
+
+お知らせ一覧、作成、編集
 --
-![お知らせ作成](https://user-images.githubusercontent.com/13707135/99279625-c49e7080-2873-11eb-9c02-a215e75dbc31.gif)
-
+![notice](https://user-images.githubusercontent.com/13707135/99695972-88684b80-2ad1-11eb-849a-167a49c98faa.gif)
 
 # ソースコードの解説
 
@@ -48,7 +48,11 @@ repository|データの取得や操作を担う。
 
 - MVVM + Repository
 
-![アーキテクチャ](https://user-images.githubusercontent.com/13707135/99269175-666c9000-2869-11eb-9c31-b4c9f20ff9f1.png)
+![アーキテクチャ](https://user-images.githubusercontent.com/13707135/99692751-fb6fc300-2acd-11eb-895a-da3bacfc63b2.png)
+
+- 詳細
+
+![アーキテクチャ詳細](https://user-images.githubusercontent.com/13707135/99694388-b77dbd80-2acf-11eb-8697-ce6d258a8d93.png)
 
 ### 【解説】 BaseModel extends ChangeNotifier
 
