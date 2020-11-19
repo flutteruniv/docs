@@ -3,9 +3,13 @@
 - サロンアプリの管理Webアプリ
 - Flutter Web で作ってます
 
-ログイン|レスポンシブ対応
---|--
-![ログイン](https://user-images.githubusercontent.com/13707135/99279389-86a14c80-2873-11eb-814d-417460b558b7.gif)|![レスポンシブ対応](https://user-images.githubusercontent.com/13707135/99279518-a8023880-2873-11eb-98d1-f9cdcf615d32.gif)
+ログインとログアウト
+--
+![ログイン](https://user-images.githubusercontent.com/13707135/99279389-86a14c80-2873-11eb-814d-417460b558b7.gif)
+
+レスポンシブ対応
+--
+![レスポンシブ対応](https://user-images.githubusercontent.com/13707135/99279518-a8023880-2873-11eb-98d1-f9cdcf615d32.gif)
 
 お知らせ一覧
 --
@@ -25,20 +29,20 @@
 config|設定まわり。mainから呼ばれる`App`もここに含まれる。
 domain|データ構造。Entityとも呼ぶ。
 exception|例外クラスの集合体。
+extension|拡張クラスの集合体。
 presentation|StatelessWidgetのページ（View）と、ChangeNotifier（ViewModel）のセットの集合体。
 repository|データの取得や操作を担う。
-util|便利機能
 
 ## 使用しているパッケージの補足
 
-- サロンメンバーの[すさ](https://github.com/susatthi)が作ったパッケージを使用しています。
-
 パッケージ名|補足
 --|--
-[flutter_admin_scaffold](https://pub.dev/packages/flutter_admin_scaffold)| サイドバーをつけて管理画面っぽくするやつ
-[flutter_bootstrap_widgets](https://pub.dev/packages/flutter_bootstrap_widgets)| Bootstrap3風にしてくれる、管理WebをWebっぽくするためにいたるところで使ってます
-[flutter_web_data_table](https://pub.dev/packages/flutter_web_data_table)| テーブルをもっと簡単に使えるようにする、一覧画面で使ってます
-[flutter_web_router](https://pub.dev/packages/flutter_web_router)| ルーティングを簡単に使えるようにする、`/items/view/{itemId}`みたいにワイルドカードをあつかえます
+[charts_flutter](https://pub.dev/packages/charts_flutter)|グラフ描画
+[flutter_admin_scaffold](https://pub.dev/packages/flutter_admin_scaffold)| サイドバーをつけて管理画面っぽくするやつ。サロンメンバーの[すさ](https://github.com/susatthi)作成。
+[flutter_bootstrap](https://pub.dev/packages/flutter_bootstrap)|Bootstrapのcontainer（col-md-4とか）が使える。
+[flutter_bootstrap_widgets](https://pub.dev/packages/flutter_bootstrap_widgets)| Bootstrap3風にしてくれる、管理WebをWebっぽくするためにいたるところで使ってます。サロンメンバーの[すさ](https://github.com/susatthi)作成。
+[flutter_web_data_table](https://pub.dev/packages/flutter_web_data_table)| テーブルをもっと簡単に使えるようにする、一覧画面で使ってます。サロンメンバーの[すさ](https://github.com/susatthi)作成。
+[flutter_web_router](https://pub.dev/packages/flutter_web_router)| ルーティングを簡単に使えるようにする、`/items/view/{itemId}`みたいにワイルドカードをあつかえます。サロンメンバーの[すさ](https://github.com/susatthi)作成。
 
 ## アーキテクチャ
 
@@ -49,11 +53,12 @@ util|便利機能
 ### 【解説】 BaseModel extends ChangeNotifier
 
 - ViewModelに相当する部分のうち、共通処理をあつめた`BaseModel`を作り、各ページのViewModelは`BaseModel`を継承しています。
-- BaseModelが担う共通処理の例です
+- BaseModelが担う共通処理
   - ローディングのフラグ管理
   - リクエスト情報の保持
   - 各種ダイアログの表示
   - 画面遷移処理
+  - セッション管理
 - `context`依存問題
   - `BaseModel`のコンストラクターは`context`を引数にとります。
   -  ViewModelが`context`を持つことで画面遷移とポップアップ表示のトリガーをViewModelが担うことが出来て、View側にロジックを一切書かなくすることが出来る。
