@@ -7,7 +7,7 @@
 --
 ![login](https://user-images.githubusercontent.com/13707135/99695844-653d9c00-2ad1-11eb-8e5b-bbd4846c4bbd.gif)
 
-レスポンシブ対応
+ダッシュボード／レスポンシブ対応
 --
 ![responsive](https://user-images.githubusercontent.com/13707135/99696244-d54c2200-2ad1-11eb-9ebd-c6bb6f8fb099.gif)
 
