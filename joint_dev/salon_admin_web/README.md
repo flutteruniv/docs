@@ -13,12 +13,16 @@
 
 メンバー一覧、詳細
 --
-![member](https://user-images.githubusercontent.com/13707135/99696204-c8c7c980-2ad1-11eb-9107-96fc1edf436c.gif)
-
+![member](https://user-images.githubusercontent.com/13707135/99880232-91822580-2c55-11eb-91f1-a75d37de61b2.gif)
 
 お知らせ一覧、作成、編集
 --
 ![notice](https://user-images.githubusercontent.com/13707135/99695972-88684b80-2ad1-11eb-849a-167a49c98faa.gif)
+
+AboutDialog
+--
+![about](https://user-images.githubusercontent.com/13707135/99880263-ca21ff00-2c55-11eb-9190-3df31ca57b77.gif)
+
 
 # ソースコードの解説
 
@@ -107,4 +111,14 @@ Future main() async {
     - ログイン済みならリクエスト通りの処理をする
     - 具体的には、 `config/router_factory.dart` の `LoginVerificationFilter` を参照ください。
 
+### 【解説】 セッション管理
 
+- PHPやRubyなどのサーバーアプリケーションでよく使われるセッションをFlutterWebでも使えるようにしました。
+  - セッションとは、ユーザに紐付けた永続データです。実体はCookieを使っています。ユーザが入力した情報を一時的に保持し、画面遷移した先で取り出したりして使います。
+- 永続データの保存には `shared_preferences` パッケージを使っています。
+- `repository/session_repository.dart` がセッションを管理するレポジトリクラスです。パス毎にセッションデータを分離する仕組みをいれています。例えば、テーブル一覧表示のソート条件などをセッションで管理することで、画面遷移してもソート条件を保持することができますが、メンバー一覧画面とお知らせ一覧画面では別々に管理をする必要があります。レポジトリ内でパス毎にセッションデータを分離することで、利用側（ViewModel）は他の一覧画面のことを意識せずにセッションを使うことが出来ます。
+
+- 例
+  - お知らせ一覧画面（ `/notices` ）でソート条件をセッションに保持するとき `setSession('sortColumnName', 'userId');` と実行します。すると、SharedPreferences には `notices.sortColumnName = 'userId'` と、パスをprefixにして保存します。
+  - メンバー一覧画面（ `/members` ）でソート条件をセッションに保持するとき `setSession('sortColumnName', 'userId');` と実行します。すると、SharedPreferences には `members.sortColumnName = 'userId'` と、パスをprefixにして保存します。
+  - 画面側からは同じように関数を実行しますが、セッションレポジトリでパス情報をprefixに付加することで別々に保存することができます。
