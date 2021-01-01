@@ -24,7 +24,7 @@ iPod的なWheelUIで再生やシークができ、倍速再生や複数同時再
    - 静的解析 
 
 ## 遷移図
- - https://www.figma.com/file/S0Gn6fbdZEeCorPpA17LYo/Music-app?node-id=0%3A1
+ - https://www.figma.com/file/tjhKgfuDNTSe7m1CNmiqKR/Music-app-2020-12?node-id=0%3A1
  
 ## Trello
  - https://trello.com/b/2f0qD7ci/flutter%E5%A4%A7%E5%AD%A6music-app
