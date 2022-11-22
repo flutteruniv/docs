@@ -1,4 +1,4 @@
-# Flutter大学
+# Flutter大学共同開発ドキュメント
 
 ようこそ！Flutter大学へ！
 
@@ -68,7 +68,6 @@ mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-offici
 
 ### 共同開発4
 
-
 チーム名|レポジトリ|ストア
 --|--|--
 ビアコレ|https://github.com/flutteruniv/craftbeer|[Web](https://craftbeer-collection.com/)
@@ -80,25 +79,55 @@ mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-offici
 
 ### 共同開発5
 
-WIP
+チーム名|レポジトリ|ストア
+--|--|--
+はじめてのえにっき|https://github.com/kboyflutteruniv/very_first_diary|[iOS](https://apps.apple.com/jp/app/id1592216614)
+ポップトーク|https://github.com/flutteruniv/pop_talk|[iOS](https://apps.apple.com/app/id1586833764)
+家計簿覗き見|https://github.com/flutteruniv/kakeibo_app|
+人生はゲームやで||
+卓球SNS||
+里山あせっと||
 
 ### 共同開発6
 
-WIP
+チーム名|レポジトリ|ストア
+--|--|--
+FakeIcon||
+てらっと||
+医療音声||
+関大ナビ||
+起業支援||
+面白ブックマーク||
 
 ### 共同開発7
 
-WIP
+チーム名|レポジトリ|ストア
+--|--|--
+トラベラーsns||
+五感観察日記||
 
 ### 共同開発8
 
-WIP
+チーム名|レポジトリ|ストア
+--|--|--
+flutterfire-commons|https://github.com/KosukeSaigusa/flutterfire-commons|
+ココロを可視化|https://github.com/flutteruniv/kokoro_kashika|
+スキ街|https://github.com/flutteruniv/sukimachi|[Web](https://sukimachi.app/)
+つみあげったー|https://github.com/flutteruniv/sukimachi|[iOS](https://apps.apple.com/jp/app/id1626830264),[Android](https://play.google.com/store/apps/details?id=com.zerokaraapp.tumiagetter)
 
 ### 共同開発9
 
-WIP
+チーム名|レポジトリ|ストア
+--|--|--
+happyo|https://github.com/flutteruniv/happyo|
+絵本アプリ|https://github.com/pj-picbook/picbook|[iOS](https://sukimachi.app/)
+常夜灯|https://github.com/flutteruniv/joyato|
 
 ### 共同開発10
 
-WIP
-
+チーム名|レポジトリ|ストア
+--|--|--
+lifesnap|https://github.com/Ta23ka98/life_snap|
+スタンプラリー|https://github.com/team-musashi/stamp-rally|
+偏愛コミュニケーション|https://github.com/Team-Ganju/favoritism_communication|
+保育ギグワーク|https://github.com/flutteruniv/hoiqoo|
