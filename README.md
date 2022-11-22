@@ -50,25 +50,21 @@ CloudFunctions|https://github.com/kboyflutteruniv/salon_functions|[Wiki](./joint
 
 チーム名|レポジトリ|Wiki
 --|--|--
-music|https://github.com/kboyflutteruniv/music_app|[Wiki](./joint_dev/music_app/README.md)
-snsツール|https://github.com/kboyflutteruniv/salon_sns_app|[Wiki](./joint_dev/salon_sns_app/README.md)
-widgetアプリ|https://github.com/kboyflutteruniv/widget_app|[Wiki](./joint_dev/widget_app/README.md)
-体重管理|https://github.com/kboyflutteruniv/weight-management|[Wiki](./joint_dev/weight-management/README.md)
-シンプルなレシピ|https://github.com/kboyflutteruniv/recipe-app|[Wiki](./joint_dev/recipe-app/README.md)
-ボイスマッチング|https://github.com/kboyflutteruniv/voice_match_app|[Wiki](./joint_dev/voice_match_app/README.md)
-位置情報チーム|https://github.com/kboyflutteruniv/location-app|[Wiki](./joint_dev/location-app/README.md)
+music|https://github.com/flutteruniv/music_app|[Wiki](./joint_dev/music_app/README.md)
+snsツール|https://github.com/flutteruniv/salon_sns_app|[Wiki](./joint_dev/salon_sns_app/README.md)
+widgetアプリ|https://github.com/flutteruniv/widget_app|[Wiki](./joint_dev/widget_app/README.md)
+体重管理|https://github.com/flutteruniv/weight-management|[Wiki](./joint_dev/weight-management/README.md)
+シンプルなレシピ|https://github.com/flutteruniv/recipe-app|[Wiki](./joint_dev/recipe-app/README.md)
+ボイスマッチング|https://github.com/flutteruniv/voice_match_app|[Wiki](./joint_dev/voice_match_app/README.md)
+位置情報チーム|https://github.com/flutteruniv/location-app|[Wiki](./joint_dev/location-app/README.md)
 
 ### 共同開発3
 
-チーム名|レポジトリ|Wiki
+チーム名|レポジトリ|ストア
 --|--|--
-music|https://github.com/kboyflutteruniv/music_app|[Wiki](./joint_dev/music_app/README.md)
-snsツール|https://github.com/kboyflutteruniv/salon_sns_app|[Wiki](./joint_dev/salon_sns_app/README.md)
-widgetアプリ|https://github.com/kboyflutteruniv/widget_app|[Wiki](./joint_dev/widget_app/README.md)
-体重管理|https://github.com/kboyflutteruniv/weight-management|[Wiki](./joint_dev/weight-management/README.md)
-シンプルなレシピ|https://github.com/kboyflutteruniv/recipe-app|[Wiki](./joint_dev/recipe-app/README.md)
-ボイスマッチング|https://github.com/kboyflutteruniv/voice_match_app|[Wiki](./joint_dev/voice_match_app/README.md)
-位置情報チーム|https://github.com/kboyflutteruniv/location-app|[Wiki](./joint_dev/location-app/README.md)
+couple_todo|https://github.com/flutteruniv/couple_todo|[web](https://couple-todo-product.web.app/)
+シフト管理|https://github.com/flutteruniv/shift_manage_app|[iOS](https://apps.apple.com/us/app/smartshift/id1560354873)
+mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-official.com/)
 
 ### 共同開発4
 
