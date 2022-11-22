@@ -34,10 +34,10 @@ Flutter大学アプリは、以下のように複数のアプリで構成され�
 
 アプリ名|レポジトリ|Wiki
 --|--|--
-iOS/Android|https://github.com/kboyflutteruniv/salon_app|[Wiki](./joint_dev/salon_app/README.md)
-Web|https://github.com/kboyflutteruniv/salon_app_web|[Wiki](./joint_dev/salon_app_web/README.md)
-管理Web|https://github.com/kboyflutteruniv/salon_admin_web|[Wiki](./joint_dev/salon_admin_web/README.md)
-CloudFunctions|https://github.com/kboyflutteruniv/salon_functions|[Wiki](./joint_dev/salon_functions/README.md)
+iOS/Android|https://github.com/flutteruniv/salon_app|[Wiki](./joint_dev/salon_app/README.md)
+Web|https://github.com/flutteruniv/salon_app_web|[Wiki](./joint_dev/salon_app_web/README.md)
+管理Web|https://github.com/flutteruniv/salon_admin_web|[Wiki](./joint_dev/salon_admin_web/README.md)
+CloudFunctions|https://github.com/flutteruniv/salon_functions|[Wiki](./joint_dev/salon_functions/README.md)
 
 ### [Flutter大学アプリ初期開発時のWiki](./salon_app/README.md)
 
