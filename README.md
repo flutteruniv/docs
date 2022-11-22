@@ -95,7 +95,7 @@ mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-offici
 FakeIcon||
 てらっと||
 医療音声||
-関大ナビ||
+関大ナビ||[iOS](https://apps.apple.com/jp/app/hash/id1614642150)
 起業支援||
 面白ブックマーク||
 
@@ -104,7 +104,7 @@ FakeIcon||
 チーム名|レポジトリ|ストア
 --|--|--
 トラベラーsns||
-五感観察日記||
+五感観察日記|https://github.com/flutteruniv/five_senses_tell|
 
 ### 共同開発8
 
