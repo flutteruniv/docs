@@ -41,12 +41,14 @@ CloudFunctions|https://github.com/flutteruniv/salon_functions|[Wiki](./joint_dev
 
 ### [Flutter大学アプリ初期開発時のWiki](./salon_app/README.md)
 
-2020年7月〜2020年9月の3ヶ月間をかけて、メンバーがFlutter大学専用のアプリ（サロンアプリ）を共同開発しました。
+2020年7月〜9月の3ヶ月間をかけて、メンバーがFlutter大学専用のアプリ（サロンアプリ）を共同開発しました。
 そのときのWiki情報です。もしかしたら役立つ情報があるかもしれません。
 
 ## 各チームのレポジトリとWiki
 
 ### 共同開発2
+
+2020年9月~12月
 
 チーム名|レポジトリ|Wiki
 --|--|--
@@ -60,6 +62,8 @@ widgetアプリ|https://github.com/flutteruniv/widget_app|[Wiki](./joint_dev/wid
 
 ### 共同開発3
 
+2021年1月~3月
+
 チーム名|レポジトリ|ストア
 --|--|--
 couple_todo|https://github.com/flutteruniv/couple_todo|[Web](https://couple-todo-product.web.app/)
@@ -67,6 +71,8 @@ couple_todo|https://github.com/flutteruniv/couple_todo|[Web](https://couple-todo
 mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-official.com/)
 
 ### 共同開発4
+
+2021年4月~6月
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -79,6 +85,8 @@ mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-offici
 
 ### 共同開発5
 
+2021年7月~9月
+
 チーム名|レポジトリ|ストア
 --|--|--
 はじめてのえにっき|https://github.com/kboyflutteruniv/very_first_diary|[iOS](https://apps.apple.com/jp/app/id1592216614)
@@ -89,6 +97,8 @@ mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-offici
 里山あせっと||
 
 ### 共同開発6
+
+2021年10月~12月
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -101,12 +111,16 @@ FakeIcon||
 
 ### 共同開発7
 
+2022年1月~3月
+
 チーム名|レポジトリ|ストア
 --|--|--
 トラベラーsns||
 五感観察日記|https://github.com/flutteruniv/five_senses_tell|
 
 ### 共同開発8
+
+2022年4月~6月
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -117,6 +131,8 @@ flutterfire-commons|https://github.com/KosukeSaigusa/flutterfire-commons|
 
 ### 共同開発9
 
+2022年7月~9月
+
 チーム名|レポジトリ|ストア
 --|--|--
 happyo|https://github.com/flutteruniv/happyo|
@@ -124,6 +140,8 @@ happyo|https://github.com/flutteruniv/happyo|
 常夜灯|https://github.com/flutteruniv/joyato|
 
 ### 共同開発10
+
+2022年10月~12月
 
 チーム名|レポジトリ|ストア
 --|--|--
