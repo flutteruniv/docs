@@ -62,13 +62,21 @@ widgetアプリ|https://github.com/flutteruniv/widget_app|[Wiki](./joint_dev/wid
 
 チーム名|レポジトリ|ストア
 --|--|--
-couple_todo|https://github.com/flutteruniv/couple_todo|[web](https://couple-todo-product.web.app/)
+couple_todo|https://github.com/flutteruniv/couple_todo|[Web](https://couple-todo-product.web.app/)
 シフト管理|https://github.com/flutteruniv/shift_manage_app|[iOS](https://apps.apple.com/us/app/smartshift/id1560354873)
 mink|https://github.com/flutteruniv/beautician_app|[Web](https://www.mink-official.com/)
 
 ### 共同開発4
 
-WIP
+
+チーム名|レポジトリ|ストア
+--|--|--
+ビアコレ|https://github.com/flutteruniv/craftbeer|[Web](https://craftbeer-collection.com/)
+サーファーSNS|https://github.com/flutteruniv/surfing_sns|
+バイクシェア|https://github.com/flutteruniv/bike_share_app|
+卒業文集|https://github.com/flutteruniv/school_memories|
+動画アプリ||
+
 
 ### 共同開発5
 
