@@ -31,9 +31,9 @@ Flutter大学アプリは、以下のように複数のアプリで構成され�
 アプリ名|レポジトリ|Wiki
 --|--|--
 iOS/Android|https://github.com/flutteruniv/salon_app|[Wiki](./joint_dev/salon_app/README.md)
-Web|https://github.com/flutteruniv/salon_app_web|[Wiki](./joint_dev/salon_app_web/README.md)
+Web|https://github.com/flutteruniv/salon_app_web|
 管理Web|https://github.com/flutteruniv/salon_admin_web|[Wiki](./joint_dev/salon_admin_web/README.md)
-CloudFunctions|https://github.com/flutteruniv/salon_functions|[Wiki](./joint_dev/salon_functions/README.md)
+CloudFunctions|https://github.com/flutteruniv/salon_functions|
 
 #### [Flutter大学アプリ初期開発時のWiki](joint_dev/salon_app/README.md)
 
@@ -47,12 +47,12 @@ CloudFunctions|https://github.com/flutteruniv/salon_functions|[Wiki](./joint_dev
 チーム名|レポジトリ|Wiki
 --|--|--
 music|https://github.com/flutteruniv/music_app|[Wiki](./joint_dev/music_app/README.md)
-snsツール|https://github.com/flutteruniv/salon_sns_app|[Wiki](./joint_dev/salon_sns_app/README.md)
-widgetアプリ|https://github.com/flutteruniv/widget_app|[Wiki](./joint_dev/widget_app/README.md)
-体重管理|https://github.com/flutteruniv/weight-management|[Wiki](./joint_dev/weight-management/README.md)
-シンプルなレシピ|https://github.com/flutteruniv/recipe-app|[Wiki](./joint_dev/recipe-app/README.md)
-ボイスマッチング|https://github.com/flutteruniv/voice_match_app|[Wiki](./joint_dev/voice_match_app/README.md)
-位置情報チーム|https://github.com/flutteruniv/location-app|[Wiki](./joint_dev/location-app/README.md)
+snsツール|https://github.com/flutteruniv/salon_sns_app|
+widgetアプリ|https://github.com/flutteruniv/widget_app|
+体重管理|https://github.com/flutteruniv/weight-management|
+シンプルなレシピ|https://github.com/flutteruniv/recipe-app|
+ボイスマッチング|https://github.com/flutteruniv/voice_match_app|
+位置情報チーム|https://github.com/flutteruniv/location-app|
 
 ### 共同開発3
 
