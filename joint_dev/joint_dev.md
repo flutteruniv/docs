@@ -36,7 +36,7 @@ CloudFunctions|https://github.com/flutteruniv/salon_functions|[Wiki](./joint_dev
 2020年7月〜9月の3ヶ月間をかけて、メンバーがFlutter大学専用のアプリ（サロンアプリ）を共同開発しました。
 そのときのWiki情報です。もしかしたら役立つ情報があるかもしれません。
 
-## 各チームのレポジトリとWiki
+## これまでの共同開発の歴史
 
 ### 共同開発2
 
