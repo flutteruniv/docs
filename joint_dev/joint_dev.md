@@ -30,9 +30,9 @@ Flutter大学アプリは、以下のように複数のアプリで構成され�
 
 アプリ名|レポジトリ|Wiki
 --|--|--
-iOS/Android|https://github.com/flutteruniv/salon_app|[Wiki](./joint_dev/salon_app/README.md)
+iOS/Android|https://github.com/flutteruniv/salon_app|[Wiki](/salon_app/README.md)
 Web|https://github.com/flutteruniv/salon_app_web|
-管理Web|https://github.com/flutteruniv/salon_admin_web|[Wiki](./joint_dev/salon_admin_web/README.md)
+管理Web|https://github.com/flutteruniv/salon_admin_web|[Wiki](/salon_admin_web/README.md)
 CloudFunctions|https://github.com/flutteruniv/salon_functions|
 
 #### [Flutter大学アプリ初期開発時のWiki](joint_dev/salon_app/README.md)
@@ -46,7 +46,7 @@ CloudFunctions|https://github.com/flutteruniv/salon_functions|
 
 チーム名|レポジトリ|Wiki
 --|--|--
-music|https://github.com/flutteruniv/music_app|[Wiki](./joint_dev/music_app/README.md)
+music|https://github.com/flutteruniv/music_app|[Wiki](/music_app/README.md)
 snsツール|https://github.com/flutteruniv/salon_sns_app|
 widgetアプリ|https://github.com/flutteruniv/widget_app|
 体重管理|https://github.com/flutteruniv/weight-management|
