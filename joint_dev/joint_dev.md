@@ -15,10 +15,14 @@
 - スキルアップ（Flutter、Firebase、Github、コードレビュー）
 
 ### どのようにやるのか
-- 数名の少人数のチームを組み、各チームが共同開発をする
-- チーム運営はおのおののチーム内の裁量に任せられています
+- 3ヶ月に1回キックオフを行う。その際アイデアを持つ人がアプリのアイデアを発表し、賛同するものは参加を表明してチームを結成する
+- チーム運営はおのおののチーム内の裁量に任せられている
+- 3ヶ月後に成果発表会を行う
+- キックオフや発表会はZoomかつYouTubeライブ配信を行う
 
-## Flutter大学アプリ
+## これまでの共同開発の歴史
+
+### 共同開発1: Flutter大学アプリ
 Flutter大学のアップデートも当初はチームを組んで開発していました。
 2022年11月現在は基本kboyだけで更新してますが。。
 
@@ -31,12 +35,10 @@ Web|https://github.com/flutteruniv/salon_app_web|[Wiki](./joint_dev/salon_app_we
 管理Web|https://github.com/flutteruniv/salon_admin_web|[Wiki](./joint_dev/salon_admin_web/README.md)
 CloudFunctions|https://github.com/flutteruniv/salon_functions|[Wiki](./joint_dev/salon_functions/README.md)
 
-### [Flutter大学アプリ初期開発時のWiki](joint_dev/salon_app/README.md)
+#### [Flutter大学アプリ初期開発時のWiki](joint_dev/salon_app/README.md)
 
 2020年7月〜9月の3ヶ月間をかけて、メンバーがFlutter大学専用のアプリ（サロンアプリ）を共同開発しました。
 そのときのWiki情報です。もしかしたら役立つ情報があるかもしれません。
-
-## これまでの共同開発の歴史
 
 ### 共同開発2
 
