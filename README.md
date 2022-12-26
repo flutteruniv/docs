@@ -1,3 +1,3 @@
 # Flutter大学ドキュメント
 
-- [共同開発について](joint_dev/joint_dev.md)
+- [共同開発について](joint_dev/README.md)
