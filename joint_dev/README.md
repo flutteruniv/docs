@@ -150,12 +150,13 @@ lifesnap|https://github.com/Ta23ka98/life_snap|
 
 チーム名|レポジトリ|ストア
 --|--|--
-自由なチャットアプリ||
+自由なチャットアプリ|https://github.com/taishi1999/Free_Chat|
 オビワン|https://github.com/flutteruniv/obi-wan|
 BadLog|https://github.com/Ryotaewamoto/bad-log|
-Chatnow||
-NOCOTTA||
+Chatnow|未確認|
+NOCOTTA|未確認|
 IT資格勉強プラットフォーム|https://github.com/Team-PastQuiz11/PastQuiz|
 BAX|https://github.com/flutteruniv/bax|
 geoflutterfire_plus|https://github.com/KosukeSaigusa/geoflutterfire_plus|
+発達障害や精神疾患向けサービス|https://github.com/flutteruniv/omurice|
 
