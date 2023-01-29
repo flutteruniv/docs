@@ -20,7 +20,6 @@
 
 録画しているので、[動画の切り抜き](../fut/clip_video.md)メンバーによるアップロード後、後からアーカイブ動画を見ることができます。
 
-
 - slackチャンネルは [#共同勉強会](https://app.slack.com/client/T012UQWDRQC/C01TXNA7J10)
 - zoomページのリンクは https://flutteruniv.com/study_meeting
 
