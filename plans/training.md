@@ -27,7 +27,7 @@ Zoom質問対応が終わった後は、Github質問に対して回答してい�
 
 Flutter修行プランの人は、質問をissueで投稿することができます。
 
-- [質問方法](https://flutteruniv.com/how_to_github_question)
+- [質問方法](../how_to_github_question.md)
 
 ## コーチングが１回無料
 
