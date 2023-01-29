@@ -1,6 +1,6 @@
 # GitHubで質問を投稿する方法
 
-#### まずは [flutteruniv/questions](https://github.com/flutteruniv/questions) のリポジトリでnew issueを押します。
+#### まずは [flutteruniv/questions](https://github.com/flutteruniv/questions/issues) のリポジトリでnew issueを押します。
 
 <img width="500" alt="github_question1" src="https://user-images.githubusercontent.com/17683316/215312905-fda2c09b-2422-45cb-be78-60d586a646dc.png">
 

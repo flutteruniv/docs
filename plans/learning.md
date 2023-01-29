@@ -4,6 +4,9 @@
 
 また、[Flutter修行プラン](training.md)の方も課題学習プランのサービスを享受できます。
 
+### 目次
+- [Flutterの教科書で学べる](#Flutterの教科書で学べる)
+
 ## Flutterの教科書で学べる
 
 課題学習プラン以上の方は、Flutter大学限定オリジナル教材[「Flutterの教科書」（zennにて一般価格5,000円）](https://zenn.dev/flutteruniv/books/flutter-textbook)を使って学習でき、課題を取り組むとレビューしてもらえます。
