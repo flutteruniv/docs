@@ -1,5 +1,7 @@
 # FUTについて
 
+FUTはFlutter University Tokenの略で、Flutter大学内で使える通貨のようなものです。
+
 Flutter大学は、誰かに貢献すると対価がもらえて、それをFlutter大学内で使えるというトークンエコノミー形成を目指しています。
 
 ## FUTの獲得方法
