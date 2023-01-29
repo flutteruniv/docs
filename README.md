@@ -5,4 +5,4 @@
 - [プラン一覧](plans)
 - [FUTについて](fut)
 - [学習ロードマップ](https://zenn.dev/flutteruniv_dev/articles/16181eaa6783d6)
-- お仕事の求人について
+- [お仕事の求人について](flutterwork.md)
