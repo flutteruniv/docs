@@ -6,5 +6,6 @@
 
 https://note.com/macgyverthink/n/nc9597db6f19e
 
-現在は、第一号としてJBOYさんが頑張っています。
+現在は、第一号としてJBOYさんが頑張っています↓
+
 https://note.com/jboysan/n/n10a352650252
