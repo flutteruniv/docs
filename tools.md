@@ -4,7 +4,7 @@
 
 ほとんどのコミュニケーションをここで行うので、ぜひスマホアプリやPCアプリをダウンロードしましょう！
 
-まずは[#0_新入会の方へ](https://app.slack.com/client/T012UQWDRQC/C020NE68534)をチェックしてください。
+まずは[#0_新入会の方へ](https://flutteruniv.slack.com/archives/C020NE68534)をチェックしてください。
 
 ### GitHub
 

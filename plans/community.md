@@ -20,7 +20,7 @@
 
 録画しているので、[動画の切り抜き](../fut/clip_video.md)メンバーによるアップロード後、後からアーカイブ動画を見ることができます。
 
-- slackチャンネルは [#共同勉強会](https://app.slack.com/client/T012UQWDRQC/C01TXNA7J10)
+- slackチャンネルは [#共同勉強会](https://flutteruniv.slack.com/archives/C01TXNA7J10)
 - zoomページのリンクは https://flutteruniv.com/study_meeting
 
 ## 過去動画が見れる
@@ -33,7 +33,7 @@
 
 Flutter大学の教材でインプットをした後は、自分でアプリを作ってリリースすることをおすすめしています。この個人開発の成果を発表する個人開発発表会が月１回行われています。お互いに刺激しあって個人アプリ開発を進めていきましょう！
 
-slackチャンネルは [#club_個人開発](https://app.slack.com/client/T012UQWDRQC/C034CETPN5S) です！
+slackチャンネルは [#club_個人開発](https://flutteruniv.slack.com/archives/C034CETPN5S) です！
 
 ## 共同開発
 
@@ -52,25 +52,25 @@ Flutter大学で3ヶ月に１回行われているチームを組んでアプリ
 発表の様子をFlutter大学のYouTubeでライブ配信する予定です！
 最後にみなさんに投票してもらうのですが、優勝チームのメンバーには1000FUTが贈呈されます。
 
-開催はslackの [#general](https://app.slack.com/client/T012UQWDRQC/C012NRTEMMH) で告知します！
+開催はslackの [#general](https://flutteruniv.slack.com/archives/C012NRTEMMH) で告知します！
 
 ## オンライン交流会
 
 月に１回zoomのブレイクアウトルームを利用して開催します。「4人組のルームを作り、20分1セットで席替えを2回行う」という形式で行います。ルームが強制的につくられて時間が決まっているので話やすい場です。
 
-開催はslackの [#general](https://app.slack.com/client/T012UQWDRQC/C012NRTEMMH)で告知します！
+開催はslackの [#general](https://flutteruniv.slack.com/archives/C012NRTEMMH)で告知します！
 
 ## UTAGE
 
 東京恵比寿にあるFlutterシェアハウスで月１行われる飲み会のことです。
 
-開催はslackの [#random](https://app.slack.com/client/T012UQWDRQC/C01318JMEUR) や [#club_シェアハウス](https://app.slack.com/client/T012UQWDRQC/C02885T6A9X) で告知します！
+開催はslackの [#random](https://flutteruniv.slack.com/archives/C01318JMEUR) や [#club_シェアハウス](https://flutteruniv.slack.com/archives/C02885T6A9X) で告知します！
 
 ## オフ会
 
 札幌、東京、名古屋、大阪、福岡など各地でオフ会が開催されています。皆んなで地方に集まろう！という流れがあります。
 
-開催はslackの [#random](https://app.slack.com/client/T012UQWDRQC/C01318JMEUR) や #area_〇〇 で告知します！
+開催はslackの [#random](https://flutteruniv.slack.com/archives/C01318JMEUR) や #area_〇〇 で告知します！
 
 ## さらに詳しくは
 - コミュニティプランについてもっと詳しくは [週刊Flutter大学の記事](https://blog.flutteruniv.com/flutteruniv-community-plan/)
