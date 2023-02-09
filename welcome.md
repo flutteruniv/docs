@@ -1,12 +1,20 @@
 ## ①まずはslack登録して1on1しよう
 slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.com/slack_input) からslackの連携をお願いします！そうすると1on1の案内が飛びます！
 
-<img width="647" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217703326-e6b1e5d1-310f-4a97-8710-3e21db274864.png">
+<br/>
+
+図：1on1の案内の様子
+
+<img width="500" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217703326-e6b1e5d1-310f-4a97-8710-3e21db274864.png">
 
 ## ②さまざまなチャンネルに入ろう
 「Flutter大学くん招待して」とslackで投稿するtimesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
 
-<img width="637" alt="スクリーンショット 2023-02-09 11 29 01" src="https://user-images.githubusercontent.com/17683316/217702156-0e8ca6a3-1e0e-497c-9c57-af5b118bf035.png">
+<br/>
+
+図：「Flutter大学くん招待して」と打った様子
+
+<img width="500" alt="スクリーンショット 2023-02-09 11 29 01" src="https://user-images.githubusercontent.com/17683316/217702156-0e8ca6a3-1e0e-497c-9c57-af5b118bf035.png">
 
 ### コマンド一覧
 - Flutter大学くん招待して
@@ -37,6 +45,12 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 メンバーと交流しやすくするために自分のtimesを作るのがお勧めです！作ったら [#random](https://flutteruniv.slack.com/archives/C01318JMEUR) や [#0_自己紹介](https://flutteruniv.slack.com/archives/C012NKN75S6) で告知してみましょう！
 
 また、 [flutteruniv.com/slack_times_input](https://flutteruniv.com/slack_times_input) にtimes名を入力してFUTをゲットしましょう！
+
+<br/>
+
+図：FUTをゲットした様子
+
+<img width="500" alt="スクリーンショット 2023-02-09 11 38 05" src="https://user-images.githubusercontent.com/17683316/217703501-2735f46a-b98a-46ad-b3d0-8d543ba12e50.png">
 
 ## ④Flutterの教科書の使い方を確認しよう
 課題学習プランorFlutter修行プランの方は[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
