@@ -14,7 +14,8 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 図：「Flutter大学くん招待して」と打った様子
 
-<img width="500" alt="スクリーンショット 2023-02-09 11 29 01" src="https://user-images.githubusercontent.com/17683316/217702156-0e8ca6a3-1e0e-497c-9c57-af5b118bf035.png">
+<img width="500" alt="スクリーンショット 2023-02-09 17 43 49" src="https://user-images.githubusercontent.com/17683316/217761120-7c1c8569-b550-4361-a985-2c361215c463.png">
+
 
 ### コマンド一覧
 - Flutter大学くん招待して
