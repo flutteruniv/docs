@@ -5,7 +5,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 図：1on1の案内の様子
 
-<img width="500" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217703326-e6b1e5d1-310f-4a97-8710-3e21db274864.png">
+<img width="500" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217708499-9d1bef65-0eea-44b4-903f-8b3684530cc9.png">
 
 ## ②さまざまなチャンネルに入ろう
 「Flutter大学くん招待して」とslackで投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
@@ -50,7 +50,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 図：FUTをゲットした様子
 
-<img width="500" alt="スクリーンショット 2023-02-09 11 38 05" src="https://user-images.githubusercontent.com/17683316/217703501-2735f46a-b98a-46ad-b3d0-8d543ba12e50.png">
+<img width="500" alt="スクリーンショット 2023-02-09 11 38 05" src="https://user-images.githubusercontent.com/17683316/217708502-975074ff-935e-40fd-8a19-0385968ded2c.png">
 
 ## ④Flutterの教科書の使い方を確認しよう
 課題学習プランorFlutter修行プランの方は[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
