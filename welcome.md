@@ -1,8 +1,10 @@
 ## ①まずはslack登録して1on1しよう
-slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.com/slack_input)からslackの連携をお願いします！そうすると1on1の案内が飛びます！
+slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.com/slack_input) からslackの連携をお願いします！そうすると1on1の案内が飛びます！
 
 ## ②さまざまなチャンネルに入ろう
-「Flutter大学くん招待して」とslackで文字を打つとtimesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえず入ってみるのがおすすめです！
+「Flutter大学くん招待して」とslackで文字を打つとtimesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえず打つのがおすすめです！
+
+<img width="637" alt="スクリーンショット 2023-02-09 11 29 01" src="https://user-images.githubusercontent.com/17683316/217702156-0e8ca6a3-1e0e-497c-9c57-af5b118bf035.png">
 
 ### コマンド一覧
 - Flutter大学くん招待して
@@ -31,7 +33,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 ## ③timesを作ってFUTをゲットしよう
 メンバーと交流しやすくするために自分のtimesを作るのがお勧めです！作ったら #random や #0_自己紹介 で告知してみましょう！
-timesチャンネルを作ったら[flutteruniv.com/slack_times_input](https://flutteruniv.com/slack_times_input)にtimes名を入力してFUTをゲットしましょう！
+timesチャンネルを作ったら [flutteruniv.com/slack_times_input](https://flutteruniv.com/slack_times_input) にtimes名を入力してFUTをゲットしましょう！
 
 ## ④Flutterの教科書の使い方を確認しよう
 課題学習プランorFlutter修行プランの方は[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
