@@ -8,7 +8,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 <img width="500" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217708499-9d1bef65-0eea-44b4-903f-8b3684530cc9.png">
 
 ## ②さまざまなチャンネルに入ろう
-「Flutter大学くん招待して」とslackで投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
+「Flutter大学くん招待して」と[#0_新規入会者1on1](https://flutteruniv.slack.com/archives/C038U4GT1N3)で投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
 
 <br/>
 
