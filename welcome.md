@@ -1,6 +1,8 @@
 ## ①まずはslack登録して1on1しよう
 slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.com/slack_input) からslackの連携をお願いします！そうすると1on1の案内が飛びます！
 
+<img width="647" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217703326-e6b1e5d1-310f-4a97-8710-3e21db274864.png">
+
 ## ②さまざまなチャンネルに入ろう
 「Flutter大学くん招待して」とslackで投稿するtimesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
 
