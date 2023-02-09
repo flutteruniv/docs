@@ -32,8 +32,9 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 - [#共同開発〇_〇〇](https://flutteruniv.slack.com/archives/C04HS5RTYM7) →共同開発チームのチャンネル。見るのは自由 (例： [#共同開発11_bax](https://flutteruniv.slack.com/archives/C04HS5RTYM7))
 
 ## ③timesを作ってFUTをゲットしよう
-メンバーと交流しやすくするために自分のtimesを作るのがお勧めです！作ったら #random や #0_自己紹介 で告知してみましょう！
-timesチャンネルを作ったら [flutteruniv.com/slack_times_input](https://flutteruniv.com/slack_times_input) にtimes名を入力してFUTをゲットしましょう！
+メンバーと交流しやすくするために自分のtimesを作るのがお勧めです！作ったら [#random](https://flutteruniv.slack.com/archives/C01318JMEUR) や [#0_自己紹介](https://flutteruniv.slack.com/archives/C012NKN75S6) で告知してみましょう！
+
+また、 [flutteruniv.com/slack_times_input](https://flutteruniv.com/slack_times_input) にtimes名を入力してFUTをゲットしましょう！
 
 ## ④Flutterの教科書の使い方を確認しよう
 課題学習プランorFlutter修行プランの方は[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
