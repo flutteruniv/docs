@@ -2,7 +2,7 @@
 slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.com/slack_input) からslackの連携をお願いします！そうすると1on1の案内が飛びます！
 
 ## ②さまざまなチャンネルに入ろう
-「Flutter大学くん招待して」とslackで文字を打つとtimesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえず打つのがおすすめです！
+「Flutter大学くん招待して」とslackで投稿するtimesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
 
 <img width="637" alt="スクリーンショット 2023-02-09 11 29 01" src="https://user-images.githubusercontent.com/17683316/217702156-0e8ca6a3-1e0e-497c-9c57-af5b118bf035.png">
 
