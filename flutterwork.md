@@ -6,4 +6,4 @@ Flutter大学の関連サービスとして[FlutterWork](https://work.flutteruni
 
 募集することは無料ですが、求人が成立した場合、FlutterWorkのHPに記載のマッチング手数料がかかりますのでご注意ください。ちなみにマッチング手数料はFUTで払うこともできます。（1人採用につき1000FUT）
 
-詳しくは、運営にお問い合わせください！
+詳しくは、運営のslack([kboy](https://flutteruniv.slack.com/archives/D012NRTEH7V)または[こんぶ](https://flutteruniv.slack.com/archives/D01C2SRNJ1J))にお問い合わせください！
