@@ -6,5 +6,6 @@
 - [共同開発について](joint_dev)
 - [FUTについて](fut)
 - [学習ロードマップ](https://zenn.dev/flutteruniv/articles/flutter-roadmap)
-- [お仕事の求人について](flutterwork.md)
+- [開発案件紹介や就活サポートについて](job.md)
+- [仕事の求人をしたい場合は](flutterwork.md)
 - [会費の使われ方について](money.md)
