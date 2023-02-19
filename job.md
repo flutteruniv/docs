@@ -23,3 +23,6 @@ FlutterWorkは正社員転職には対応していません。
 - Support..初月月額55,000円(2ヶ月目以降27,500円)で、面接対策等の就活サポートのみを受けれるプランです。（人材紹介がなく、法人側からの仲介料がないため、有料になります）
 
 詳しくは[セイト先生のTwitter](https://twitter.com/seito_horiguchi)のDMでお気軽にご連絡ください！その際「Flutter大学の紹介です」と言っていただければと思います。
+
+以前、セイト先生がFlutter大学メンバーに向けて無料の講演会をおこなってくれたので、そちらも是非ご覧ください！
+https://flutteruniv.com/materials/lecture_videos/ag8af1SP2NHPHlZN0FUn
