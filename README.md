@@ -3,7 +3,7 @@
 - [はじめに](welcome.md)
 - [使うツールについて](tools.md)
 - [プラン一覧](plans)
-- [質問したいときは](training.md#%E8%B3%AA%E5%95%8Fzoom)
+- [質問したいときは](plans/training.md#%E8%B3%AA%E5%95%8Fzoom)
 - [共同開発について](joint_dev)
 - [FUTについて](fut)
 - [学習ロードマップ](https://zenn.dev/flutteruniv/articles/flutter-roadmap)
