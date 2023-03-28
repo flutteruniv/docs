@@ -20,8 +20,8 @@ Zoom質問対応が終わった後は、Github質問に対して回答してい�
 #### 開催時間
 - 火曜 8:00~9:00
 - 水曜 20:00~21:00
+- 木曜 20:00~21:00
 - 土曜 10:00~11:00
-- 日曜 20:00~21:00
 
 開催はslackの [#general](https://flutteruniv.slack.com/archives/C012NRTEMMH) で告知します！
 
