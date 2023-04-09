@@ -24,7 +24,7 @@ Flutter修行プランの人は、質問を [GitHub issueで投稿](https://gith
 
 オンライン上で席に座って作業したり、会議したりできます。
 
-[Gatherへのリンク](https://flutteruniv.com/spatial_cushion)
+[Gatherへのリンク](https://flutteruniv.com/gather)
 
 ### YouTube
 
