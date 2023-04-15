@@ -57,4 +57,4 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 課題学習プランorFlutter修行プランの方は[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
 
 ## ⑤使い方ページをチェックしよう
-さいごに[ドキュメント](README.md)の他の項目もチェックしましょう！
+さいごに[ドキュメント](https://github.com/flutteruniv/docs/blob/master/README.md)の他の項目もチェックしましょう！
