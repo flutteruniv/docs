@@ -171,6 +171,5 @@ https://www.youtube.com/live/TQzbp8KNmRE
 チーム名|レポジトリ|成果物
 --|--|--
 CHOP SHOP|https://github.com/dongri727/chop-shop|
-暇な時間のシェアアプリ|未確認|
 anaba|https://github.com/flutteruniv/anaba|https://anaba.app
 CodeBoy2|https://github.com/flutteruniv/salon_app_web|https://flutteruniv.com
