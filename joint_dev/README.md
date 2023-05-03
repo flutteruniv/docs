@@ -151,12 +151,26 @@ lifesnap|https://github.com/Ta23ka98/life_snap|
 チーム名|レポジトリ|ストア
 --|--|--
 自由なチャットアプリ|https://github.com/taishi1999/Free_Chat|
-オビワン|https://github.com/flutteruniv/obi-wan|
-BadLog|https://github.com/Ryotaewamoto/bad-log|
+オビワン|https://github.com/flutteruniv/obi-wan|https://apps.apple.com/jp/app/ob-1/id1666271955
+BadLog|https://github.com/Ryotaewamoto/bad-log|https://apps.apple.com/us/app/badlog/id1666920940?platform=iphone
 Chatnow|未確認|
 NOCOTTA|未確認|
 IT資格勉強プラットフォーム|https://github.com/Team-PastQuiz11/PastQuiz|
-BAX|https://github.com/flutteruniv/bax|
+BAX|https://github.com/flutteruniv/bax|https://bax.network/
 geoflutterfire_plus|https://github.com/KosukeSaigusa/geoflutterfire_plus|
-発達障害や精神疾患向けサービス|https://github.com/flutteruniv/omurice|
+発達障害や精神疾患向けサービス|https://github.com/flutteruniv/omurice|https://play.google.com/store/apps/details?id=jp.flutteruniv.omurice.omurice
 
+### 共同開発12
+
+#### 期間
+2023年4月~7月
+
+#### キックオフ動画
+https://www.youtube.com/live/TQzbp8KNmRE
+
+チーム名|レポジトリ|成果物
+--|--|--
+CHOP SHOP|https://github.com/dongri727/chop-shop|
+暇な時間のシェアアプリ|未確認|
+anaba|https://github.com/flutteruniv/anaba|https://anaba.app
+CodeBoy2|https://github.com/flutteruniv/salon_app_web|https://flutteruniv.com
