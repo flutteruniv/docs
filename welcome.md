@@ -53,8 +53,14 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 <img width="500" alt="スクリーンショット 2023-02-09 11 38 05" src="https://user-images.githubusercontent.com/17683316/217708502-975074ff-935e-40fd-8a19-0385968ded2c.png">
 
-## ④Flutterの教科書の使い方を確認しよう
-課題学習プランorFlutter修行プランの方は[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
+## ④timesで何か呟いてみましょう！
 
-## ⑤使い方ページをチェックしよう
+いったん何か呟いて、Flutter大学で近況をシェアすることをスタートしてみましょう！
+
+<img width="797" alt="CleanShot 2023-05-09 at 07 51 10@2x" src="https://user-images.githubusercontent.com/17683316/236954303-06f7c696-6f01-4578-8686-c2a453493289.png">
+
+## ⑤Flutterの教科書の使い方を確認しよう【課題学習プラン/Flutter修行プランの方向け】
+[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
+
+## ⑥使い方ページをチェックしよう
 さいごに[ドキュメント](https://github.com/flutteruniv/docs/blob/master/README.md)の他の項目もチェックしましょう！
