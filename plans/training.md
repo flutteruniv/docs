@@ -2,8 +2,6 @@
 
 課題学習プランでは、[コミュニティプラン](community.md)と[課題学習プラン](learning.md)のすべての機能に加えて以下のサービスを享受できます。
 
-また、[出家プラン](monk.md)の方もFlutter修行プランのサービスを享受できます。
-
 ### 目次
 - [質問Zoom](#質問zoom)
 - [Githubでテキストで質問](#Githubでテキストで質問)
@@ -18,12 +16,15 @@ Zoom質問対応が終わった後は、Github質問に対して回答してい�
 質問の様子はアーカイブとしてFlutter大学アプリに保存されます。
 
 #### 開催時間
-- 火曜 8:00~9:00
-- 水曜 20:00~21:00
-- 木曜 20:00~21:00
-- 土曜 10:00~11:00
+- 月曜 18:00~18:30
+- 火曜 20:00~20:30
+- 水曜 20:00~20:30
+- 木曜 20:00~20:30
+- 金曜 20:00~20:30
+- 土曜 10:00~10:30
+- 日曜 10:00~10:30
 
-開催はslackの [#general](https://flutteruniv.slack.com/archives/C012NRTEMMH) で告知します！
+開催はslackの [#study_共同勉強会](https://flutteruniv.slack.com/archives/C012TPJ0FC3) で告知します！
 
 - [質問Zoomへのリンク](https://flutteruniv.com/question_zoom)
 
