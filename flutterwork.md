@@ -15,4 +15,4 @@ Flutter大学の関連サービスとして[FlutterWork](https://work.flutteruni
 
 こちらを使うメリットとしては、全体を把握している運営メンバーが適切な人材をアサインしてくれる可能性が高いことです。
 
-詳しくは、運営のslack([kboy](https://flutteruniv.slack.com/archives/D012NRTEH7V)または[こんぶ](https://flutteruniv.slack.com/archives/D01C2SRNJ1J))にお問い合わせください！
+詳しくは、運営のslack([kboy](https://flutteruniv.slack.com/archives/D012NRTEH7V))にお問い合わせください！
