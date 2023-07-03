@@ -48,7 +48,7 @@ https://www.app.haleru.net/signup/email
 ##### ③ログインする
 https://www.app.haleru.net/login
 
-##### ④kboy(またはこんぶ)にdmしてクーポンコードをもらう
+##### ④kboyにdmしてクーポンコードをもらう
 
 ##### ⑤ログインした状態でクーポンを入力する
 https://www.app.haleru.net/coupon
