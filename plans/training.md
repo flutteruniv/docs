@@ -24,7 +24,7 @@ Zoom質問対応が終わった後は、Github質問に対して回答してい�
 - 土曜 10:00~10:30
 - 日曜 10:00~10:30
 
-開催はslackの [#study_共同勉強会](https://flutteruniv.slack.com/archives/C012TPJ0FC3) で告知します！
+開催はslackの [#study_質問zoom](https://flutteruniv.slack.com/archives/C012TPJ0FC3) で告知します！
 
 - [質問Zoomへのリンク](https://flutteruniv.com/question_zoom)
 
@@ -34,7 +34,10 @@ Flutter修行プランの人は、質問をissueで投稿することができ�
 
 - [質問方法](../how_to_github_question.md)
 
-## コーチングが１回無料
+## 毎月学習指導
+- 初回kboyが面談したのち、その後はkboy、Masaki、ダイゴ、どんぐりの誰かが毎月学習指導を行います。毎月30分、モチベーション管理、学習の進め方の悩みなど、なんでも相談してください。
+
+## HALERUコーチングが１回無料
 
 Flutter修行プランの方は[HALERU](https://haleru.net)のコーチングを１回無料で受けることができます。コーチングを通して努力の方向性を整理しましょう！
 

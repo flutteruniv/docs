@@ -105,7 +105,11 @@ FakeIcon||
 
 ### 共同開発7
 
+#### 期間
 2022年1月~3月
+
+#### 発表会動画
+https://www.youtube.com/live/YaxBHIkC0-4
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -114,7 +118,11 @@ FakeIcon||
 
 ### 共同開発8
 
+#### 期間
 2022年4月~6月
+
+#### 発表会動画
+https://www.youtube.com/live/GV1zLfmCFuY
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -125,7 +133,11 @@ flutterfire-commons|https://github.com/KosukeSaigusa/flutterfire-commons|
 
 ### 共同開発9
 
+#### 期間
 2022年7月~9月
+
+#### 発表会動画
+https://www.youtube.com/live/W_iz-YWyUsc
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -135,7 +147,14 @@ happyo|https://github.com/flutteruniv/happyo|
 
 ### 共同開発10
 
+#### 期間
 2022年10月~12月
+
+#### キックオフ動画
+https://www.youtube.com/live/zxfj4mLnMHc
+
+#### 発表会動画
+https://www.youtube.com/live/xpZS8wvOn5g
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -146,7 +165,14 @@ lifesnap|https://github.com/Ta23ka98/life_snap|
 
 ### 共同開発11
 
+#### 期間
 2023年1月~3月
+
+#### キックオフ動画
+https://www.youtube.com/live/DnPRIOfYKrA
+
+#### 発表会動画
+https://www.youtube.com/live/c0UTZsLfl2c
 
 チーム名|レポジトリ|ストア
 --|--|--
@@ -167,6 +193,9 @@ geoflutterfire_plus|https://github.com/KosukeSaigusa/geoflutterfire_plus|
 
 #### キックオフ動画
 https://www.youtube.com/live/TQzbp8KNmRE
+
+#### 発表会動画
+https://www.youtube.com/live/1Ux55W6LUcI
 
 チーム名|レポジトリ|成果物
 --|--|--
