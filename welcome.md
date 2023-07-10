@@ -8,23 +8,22 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 <img width="500" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217708499-9d1bef65-0eea-44b4-903f-8b3684530cc9.png">
 
 ## ②さまざまなチャンネルに入ろう
-「Flutter大学くん招待して」と[#0_新規入会者1on1](https://flutteruniv.slack.com/archives/C038U4GT1N3)で投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
+「@Flutter大学くん 招待して」と[#0_新規入会者1on1](https://flutteruniv.slack.com/archives/C038U4GT1N3)で投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
 
 <br/>
 
-図：「Flutter大学くん招待して」と打った様子
+図：「@Flutter大学くん 招待して」と打った様子
 
-<img width="500" alt="スクリーンショット 2023-02-09 17 43 49" src="https://user-images.githubusercontent.com/17683316/217761120-7c1c8569-b550-4361-a985-2c361215c463.png">
-
+<img width="634" alt="CleanShot 2023-07-10 at 17 01 06@2x" src="https://github.com/flutteruniv/docs/assets/17683316/1f27734c-6f91-4e4a-b8e3-f6f61a0f5390">
 
 ### コマンド一覧
-- Flutter大学くん招待して
-- Flutter大学くん共同開発に招待して
-- Flutter大学くん個人開発に招待して
-- Flutter大学くんarea一覧
-- Flutter大学くんclub一覧
-- Flutter大学くんstudy一覧
-- Flutter大学くんpj一覧
+- 招待して
+- 共同開発に招待して
+- 個人開発に招待して
+- area一覧
+- club一覧
+- study一覧
+- pj一覧
 
 ### コマンドの注意事項
 - 自分のtimesをFlutter大学くんに反応させるためには、自分のtimesにFlutter大学くんを招待することが必要です
