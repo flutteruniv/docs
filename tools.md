@@ -18,13 +18,15 @@ Flutter修行プランの人は、質問を [GitHub issueで投稿](https://gith
 
 質問Zoomやオンライン交流会で使うビデオチャットツールです。PCでアプリを入れてお使いください。
 
-### Gather
+### MetaLife
 
 オンラインのコワーキングスペースとして使われているツールです。
 
 オンライン上で席に座って作業したり、会議したりできます。
 
-[Gatherへのリンク](https://flutteruniv.com/gather)
+[MetaLifeへのリンク](https://app.metalife.co.jp/spaces/x0zcNi40SG5y4WHUhWns)
+
+[#club_コワーキング](https://flutteruniv.slack.com/archives/C02T8HG9YUW)にも関連ページとしてリンクが貼られており、このチャンネル内でメンバーの入退出を確認できます
 
 ### YouTube
 
