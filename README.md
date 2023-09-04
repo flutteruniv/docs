@@ -5,6 +5,7 @@
 - [プラン一覧](plans)
 - [質問したいときは](plans/training.md#%E8%B3%AA%E5%95%8Fzoom)
 - [共同開発について](joint_dev)
+- [朝のもくもく会とは](morning_gather.md)
 - [FUTについて](fut)
 - [開発案件紹介や就活サポートについて](job.md)
 - [仕事の求人をしたい場合は](flutterwork.md)
