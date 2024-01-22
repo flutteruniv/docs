@@ -25,9 +25,12 @@ Zoom質問対応が終わった後は、Github質問に対して回答してい�
 - 土曜 10:00-10:30
 - 日曜 14:30-15:00
 
-開催はslackの [#study_質問zoom](https://flutteruniv.slack.com/archives/C012TPJ0FC3) で告知します！
+#### 参加方法
 
-- [質問Zoomへのリンク](https://flutteruniv.com/question_zoom)
+https://flutteruniv.com/schedule にて参加したい時間の予約をお願いします。
+
+その後、時間になりましたら https://flutteruniv.com/question_zoom からzoomにお入りいただき、講師に質問してください。
+質問zoomの開催はslackの [#study_質問zoom](https://flutteruniv.slack.com/archives/C012TPJ0FC3) でも告知されます。
 
 ## Githubでテキストで質問
 
