@@ -6,7 +6,6 @@
 
 - [質問Zoom](#質問zoom)
 - [Githubでテキストで質問](#Githubでテキストで質問)
-- [コーチングが１回無料](#HALERUコーチングが１回無料)
 
 ## 質問Zoom
 
@@ -38,25 +37,6 @@ Flutter修行プランの人は、質問をissueで投稿することができ�
 
 - [質問方法](../how_to_github_question.md)
 
-## HALERUコーチングが１回無料
+## その他の特典
 
-Flutter修行プランの方は[HALERU](https://haleru.net)のコーチングを１回無料で受けることができます。コーチングを通して努力の方向性を整理しましょう！
-
-#### 無料コーチング申込の流れ
-
-##### ①HALERUに新規登録する
-https://www.app.haleru.net/signup/email
-
-##### ②送られてくるメールから本登録を行う
-
-##### ③ログインする
-https://www.app.haleru.net/login
-
-##### ④kboyにdmしてクーポンコードをもらう
-
-##### ⑤ログインした状態でクーポンを入力する
-https://www.app.haleru.net/coupon
-
-##### ⑥クーポンが付与されたら、コーチを選択して申し込む
-
-是非コーチングを活用してみてください。
+その他、外部サービスとのコラボによる特典がございます。特典は https://flutteruniv.com/rewards を確認してください。
