@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:blog.flutteruniv.com)",
+      "Bash(say:*)"
+    ],
+    "deny": []
+  }
+}
