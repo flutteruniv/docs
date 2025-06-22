@@ -33,7 +33,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 - [#general](https://flutteruniv.slack.com/archives/C012NRTEMMH) →運営からの連絡事項
 - [#random](https://flutteruniv.slack.com/archives/C01318JMEUR) →適当に使う
 - [#0_自己紹介](https://flutteruniv.slack.com/archives/C012NKN75S6) →自己紹介するところ
-- [#study_質問github](https://flutteruniv.slack.com/archives/C012TPJ0FC3) →修行プランの方の質問が流れてくるチャンネル
+- [#study_質問github](https://flutteruniv.slack.com/archives/C012TPJ0FC3) →AI修行プランの方の質問が流れてくるチャンネル
 - [#times_〇〇](https://flutteruniv.slack.com/archives/C014342KVPS) →みんなの呟きチャンネル (例： [#times_kboy](https://flutteruniv.slack.com/archives/C014342KVPS))
 - [#area_〇〇](https://flutteruniv.slack.com/archives/C02CUH8LUKB) →地域ごとのチャンネル。オフ会時に活躍 (例： [#area_関東支部](https://flutteruniv.slack.com/archives/C02CUH8LUKB))
 - [#club_〇〇](https://flutteruniv.slack.com/archives/C02885T6A9X) →趣味のチャンネル (例： [#club_シェアハウス](https://flutteruniv.slack.com/archives/C02885T6A9X))
@@ -58,7 +58,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 <img width="797" alt="CleanShot 2023-05-09 at 07 51 10@2x" src="https://user-images.githubusercontent.com/17683316/236954303-06f7c696-6f01-4578-8686-c2a453493289.png">
 
-## ⑤Flutterの教科書の使い方を確認しよう【課題学習プラン/Flutter修行プランの方向け】
+## ⑤Flutterの教科書の使い方を確認しよう【課題学習プラン/AI修行プランの方向け】
 [こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
 
 ## ⑥使い方ページをチェックしよう

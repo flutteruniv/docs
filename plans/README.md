@@ -7,4 +7,4 @@ Flutter大学には、3つのプランがあります。
 ## プラン一覧
 - [コミュニティプラン - ￥2,200/月](community.md)
 - [課題学習プラン - ￥4,400/月](learning.md)
-- [Flutter修行プラン - ￥13,200/月](training.md)
+- [AI修行プラン - ￥9,900/月](training.md)

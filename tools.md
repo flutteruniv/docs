@@ -10,7 +10,7 @@
 
 入会時に、[Flutter大学のGitHub Organization](https://github.com/flutteruniv)に招待しますので、参加してください！
 
-Flutter修行プランの人は、質問を [GitHub issueで投稿](https://github.com/flutteruniv/questions/issues)することができます。
+AI修行プランの人は、質問を [Flutter大学Webサイト](https://flutteruniv.com/questions)で投稿することができます。
 
 コミュニティプランの人もサンプルコードの閲覧や、共同開発でGithub Repositoryを作成して開発することができます。
 
