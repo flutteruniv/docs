@@ -8,15 +8,13 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 <img width="500" alt="スクリーンショット 2023-02-09 11 36 34" src="https://user-images.githubusercontent.com/17683316/217708499-9d1bef65-0eea-44b4-903f-8b3684530cc9.png">
 
 ## ②さまざまなチャンネルに入ろう
-「@Flutter大学くん 招待して」と[#0_新規入会者1on1](https://flutteruniv.slack.com/archives/C038U4GT1N3)で投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れるのでとりあえずやってみるのがおすすめです！
+以下のようにFlutter大学くんをメンションして、[#0_新規入会者1on1](https://flutteruniv.slack.com/archives/C038U4GT1N3)で投稿すると、timesチャンネル（みんなそれぞれの個人用チャンネル）に全部入れます。
 
 <br/>
 
-図：「@Flutter大学くん 招待して」と打った様子
-
 <img width="634" alt="CleanShot 2023-07-10 at 17 01 06@2x" src="https://github.com/flutteruniv/docs/assets/17683316/1f27734c-6f91-4e4a-b8e3-f6f61a0f5390">
 
-### コマンド一覧
+### その他コマンド一覧
 - 招待して
 - 共同開発に招待して
 - 個人開発に招待して
@@ -39,7 +37,7 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 - [#club_〇〇](https://flutteruniv.slack.com/archives/C02885T6A9X) →趣味のチャンネル (例： [#club_シェアハウス](https://flutteruniv.slack.com/archives/C02885T6A9X))
 - [#pj_〇〇](https://flutteruniv.slack.com/archives/C02CUG0GPHC) →企画中の様々なプロジェクトのチャンネル (例： [#pj_外部勉強会](https://flutteruniv.slack.com/archives/C02CUG0GPHC))
 - [#study_〇〇](https://flutteruniv.slack.com/archives/C01B8V5FB8W) →記事が流れてきたり、議論するチャンネル (例： [#study_flutter](https://flutteruniv.slack.com/archives/C01B8V5FB8W))
-- [#共同開発〇_〇〇](https://flutteruniv.slack.com/archives/C04HS5RTYM7) →共同開発チームのチャンネル。見るのは自由 (例： [#共同開発11_bax](https://flutteruniv.slack.com/archives/C04HS5RTYM7))
+- [#共同開発〇_〇〇](https://flutteruniv.slack.com/archives/C04HS5RTYM7) →共同開発チームのチャンネル。見るのは自由 (例： [#共同開発_date-feed-back](https://flutteruniv.slack.com/archives/C06CBUPRQ1M))
 
 ## ③timesを作ってFUTをゲットしよう
 メンバーと交流しやすくするために自分のtimesを作るのがお勧めです！作ったら [#random](https://flutteruniv.slack.com/archives/C01318JMEUR) や [#0_自己紹介](https://flutteruniv.slack.com/archives/C012NKN75S6) で告知してみましょう！
@@ -58,8 +56,16 @@ slackにログイン後は、[flutteruniv.com/slack_input](https://flutteruniv.c
 
 <img width="797" alt="CleanShot 2023-05-09 at 07 51 10@2x" src="https://user-images.githubusercontent.com/17683316/236954303-06f7c696-6f01-4578-8686-c2a453493289.png">
 
-## ⑤Flutterの教科書の使い方を確認しよう【課題学習プラン/AI修行プランの方向け】
-[こちらのリポジトリ](https://github.com/flutteruniv/zenn)でFlutterの教科書を確認してみましょう
+## ⑤教材を見てみよう【課題学習プラン/AI修行プランの方向け】
+[こちらのページ](https://flutteruniv.com/zenn)で教材を確認してみましょう。（webアプリの学習タブからも飛べます。）
 
-## ⑥使い方ページをチェックしよう
-さいごに[ドキュメント](https://github.com/flutteruniv/docs/blob/master/README.md)の他の項目もチェックしましょう！
+## ⑥その他の情報はこちら
+[ドキュメント](https://github.com/flutteruniv/docs/blob/master/README.md)の他の項目もチェックしてみましょう！
+
+また、動画の説明もありますので、そちらもご覧ください。
+
+#### Flutter大学に入ったらまずやること
+https://youtu.be/xzUASfvj9j0
+
+#### Flutter大学の全体像
+https://youtu.be/qLUT2qMCQ1Q?si=C7CS-xtpf7micg6l
