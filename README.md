@@ -1,3 +1,6 @@
+このドキュメントは2025年7月23日より以下に移行しました！
+https://github.com/flutteruniv/flutteruniv/tree/main/docs
+
 # Flutter大学ドキュメント
 
 - [はじめに](welcome.md)
